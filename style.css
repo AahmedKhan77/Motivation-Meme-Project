@@ -4,14 +4,16 @@ html{
 
 #container{
     margin:25% ;
-}
-#pic{
-    border: 5px solid white;
     
+}
+img{
+    border: 5px solid white;
+    margin-left: 2.5%;
 }
 h1{
     font-size: 50px;
     color: aliceblue;
+    
 }
 h5{
     font-size: 25px;
